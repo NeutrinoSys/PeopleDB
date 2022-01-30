@@ -1,0 +1,10 @@
+2021-11-29 13:25:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEOPLE" not found; SQL statement:
+INSERT INTO PEOPLE(FIRST_NAME, LAST_NAME, DOB)
+VALUES(?, ?, ?);
+ [42102-200]
+2021-11-29 13:27:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEOPLE" not found; SQL statement:
+INSERT INTO PEOPLE(FIRST_NAME, LAST_NAME, DOB)
+VALUES(?, ?, ?);
+ [42102-200]
